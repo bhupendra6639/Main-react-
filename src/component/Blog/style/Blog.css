@@ -1,0 +1,10 @@
+.blogcontainer {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.blogContainer p,
+.blogContainer h3 {
+    margin-top: 20px;
+}
